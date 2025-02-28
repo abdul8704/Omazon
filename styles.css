@@ -74,7 +74,7 @@ body{
     margin-top: 19px;
 }
 .prod-card{
-    border: 1px solid black;
+    border: 2px solid rgb(93, 81, 81);
     border-radius: 8px;
     width: 200px;
 }
@@ -84,4 +84,19 @@ body{
 }
 .card-desc{
     padding: 5px;
+}
+.add-new-card{
+    height: auto;
+}
+.end{
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+}
+.add{
+    height: 40px;
+    width: 40px;
+    border: none;
+    background-color: rgb(12, 238, 211);
+    border-radius: 50%;
 }
